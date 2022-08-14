@@ -44,8 +44,8 @@ The project detailed analysis is available here - [HTML](./Investigate_a_Dataset
 
 ### Links
 
-- Solution URL: [Click here for solution URL](https://github.com/mchenryspagg/investigate_a_dataset)
-- Live Site URL: [Click here for live site URL](https://mchenryspagg.github.io/investigate_a_dataset/)
+- Solution URL: [Github](https://github.com/mchenryspagg/investigate_a_dataset)
+
 
 
 ### Built with
