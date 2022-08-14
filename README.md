@@ -31,7 +31,7 @@ The original dataset can be found [here](https://www.kaggle.com/datasets/joniarr
 The goal of this project is to investigate a dataset of medical appointment records for Brasil public hospitals. The data includes some attributes of patients and state if the patients showed up to appointments.
 
 
-#### Outcome
+### Outcome
  The analysis should be focused on finding trends influencing patients to show or not show up to appointments. Using descriptive statistics and appropriate visualizations to showcase relationships, the following questions are considered:
  
 1. What gender books more medical appointments
