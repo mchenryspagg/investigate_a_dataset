@@ -47,7 +47,6 @@ The project detailed analysis is available here - [HTML](./Investigate_a_Dataset
 - Solution URL: [Github](https://github.com/mchenryspagg/investigate_a_dataset)
 
 
-
 ### Built with
 
 - Jupyter Notebook
@@ -72,4 +71,4 @@ This is the first data analysis project in an Udacity Nanodegree program. Furthe
 
 
 ## Acknowledgments
-Special thanks to ALX - T and the entire ALG, ALX, and the Room team for the opportunity to partake in this Udacity data analysis nanaodegree program. Its a great privilege that i would forever be grateful for. I get to complete 7 python projects under the sponsorship of ALX-T 
+Special thanks to ALX - T and the entire ALG, ALX, and the Room team for the opportunity to partake in this Udacity data analysis nanaodegree program. Its a great privilege that i would forever be grateful for. I get to complete 7 python projects under the sponsorship of ALX-T. 
