@@ -1,4 +1,4 @@
-# investigate_a_dataset
+# Investigate_a_dataset
 
 ### What
 Showcase ability to investigate a dataset using python libraries.
