@@ -39,12 +39,12 @@ The goal of this project is to investigate a dataset of medical appointment reco
 3. What factors are important for us to know if patients will show up for their appointments
 4. Is there a relationship between age and having a scholarship?
 
-The project detailed analysis is available here - [HTML](./Investigate_a_Dataset.html) or [Jupyter notebook](./Investigate_a_Dataset.ipynb)
+The project detailed analysis is available here - [Kaggle notebook](https://www.kaggle.com/code/henryokam/noshowappointment-investigate-a-dataset) or [Jupyter notebook](./Investigate_a_Dataset.ipynb)
 
 
 ### Links
 
-- Solution URL: [Github](https://github.com/mchenryspagg/investigate_a_dataset)
+- Summary Report : [Portfolio URL](https://sites.google.com/view/mchenrys-portfolio/data-analysis-projects/investigate-a-dataset-noshowappointment)
 
 
 ### Built with
