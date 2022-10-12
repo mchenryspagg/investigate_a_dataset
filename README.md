@@ -1,13 +1,10 @@
 # Investigate_a_dataset
 
 ### What
-Showcase ability to investigate a dataset using python libraries.
-
-### Why
-This is the first project undertaken in Udacity's Data Analysis Nanodegree.
+Showcase ability to investigate a dataset.
 
 ### How
-This data analysis project demonstrates the student's ability to use python data analysis libraries such as pandas, numpy and pyplot in matplotlib to investigate a dataset and answer specific questions from the dataset, thus demonstrating capacity in data cleaning, data wrangling, and exploratory data analysis using statistical analysis and visualizations.
+This project demonstrates the student's ability to use python data analysis libraries such as pandas, numpy and pyplot in matplotlib to investigate a dataset and answer specific questions from the dataset, thus demonstrating the requisite know-how in data cleaning, data wrangling, and exploratory data analysis using statistical analysis and visualizations.
 
 ## Table of contents
 
