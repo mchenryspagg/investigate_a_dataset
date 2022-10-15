@@ -14,6 +14,7 @@ This project demonstrates the student's ability to use python data analysis libr
   - [Links](#links)
   - [Built with](#built-with)
   - [What was learnt](#what-was-learnt)
+  - [Key Insights](#key-insights)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Acknowledgments](#acknowledgments)
@@ -53,6 +54,13 @@ The project detailed analysis is available here - [Kaggle notebook](https://www.
 ### What was learnt
 
 The ability of investigate any dataset, understand the dataset, ask questions from a dataset, carry out appropriate data wrangling and data cleaning processes, perform exploratory data analysis to answer set questions from dataset by investigating trends and relationship in the data.
+
+### Key Insights
+
+- More females booked for appointment compared to their male counterparts.
+- Awaiting time interval wasn't found to have any major effect on awaiting time interval
+- There was no distinct feature that was noticed to have had an effect on patients showing up for their appointments.
+-  No relationship was found in the age of patients been attributed to them getting a scholarship
 
 
 ### Continued development
